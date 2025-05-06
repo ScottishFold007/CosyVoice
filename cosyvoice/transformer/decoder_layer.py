@@ -1,5 +1,6 @@
 # Copyright (c) 2019 Shigeki Karita  
 #               2020 Mobvoi Inc (Binbin Zhang)  
+#               2025 修改以支持NVIDIA TransformerEngine FP8 
 #  
 # Licensed under the Apache License, Version 2.0 (the "License");  
 # you may not use this file except in compliance with the License.  
