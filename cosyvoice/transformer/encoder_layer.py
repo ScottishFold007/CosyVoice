@@ -1,6 +1,6 @@
 # Copyright (c) 2021 Mobvoi Inc (Binbin Zhang, Di Wu)  
 #               2022 Xingchen Song (sxc19@mails.tsinghua.edu.cn)  
-#               2024 修改以支持NVIDIA TransformerEngine FP8  
+#               2025 修改以支持NVIDIA TransformerEngine FP8  
 #  
 # Licensed under the Apache License, Version 2.0 (the "License");  
 # you may not use this file except in compliance with the License.  
