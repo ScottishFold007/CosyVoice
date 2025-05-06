@@ -1,6 +1,6 @@
 # Copyright (c) 2020 Mobvoi Inc. (authors: Binbin Zhang, Di Wu)  
 #               2024 Alibaba Inc (Xiang Lyu)  
-#               2024 修改以支持NVIDIA TransformerEngine FP8  
+#               2025 修改以支持NVIDIA TransformerEngine FP8  
 #  
 # Licensed under the Apache License, Version 2.0 (the "License");  
 # you may not use this file except in compliance with the License.  
